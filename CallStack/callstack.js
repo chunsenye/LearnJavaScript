@@ -19,11 +19,7 @@ console.log(444);
 // 333
 // 111
 
-/**
- *
- *   
- * 
- */
+
 console.log(1111);
 setTimeout(function(){
     console.log(2222)
