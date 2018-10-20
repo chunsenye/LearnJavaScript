@@ -1,4 +1,4 @@
-// ==   称为“等于”
+// ==    称为“等于”
 console.log('==');
 var num = 0;
 var obj = new String("0");
