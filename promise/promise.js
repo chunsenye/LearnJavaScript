@@ -1,3 +1,4 @@
+// promise
 new Promise(function(woxian){
     console.log('我先');
 }).then(caidaoni())
