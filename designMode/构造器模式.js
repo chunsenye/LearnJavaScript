@@ -8,7 +8,7 @@ function Student(name,gender,score){
 }
 var a =new Student('l','boy',98);
 console.log(a)
-
+// ES6 版本
 class People{
     constructor(name,gender){
         this.name=name;
