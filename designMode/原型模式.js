@@ -23,3 +23,15 @@ a.play()
 Student.prototype.ppp=play;
 
 console.log(a.ppp)
+
+// 原型
+function Car(){
+}
+
+Car.prototype.color='blue'
+let car1=new Car();
+
+let car2=new Car();
+car1.color='green'
+console.log(car1.color);
+console.log(car2.color);
